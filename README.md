@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋 to Artyom GitHub Profile</h1>
+<h1 align="center">Artyom GitHub Profile</h1>
 <h3 align="center">Front-End Developer</h3>
 
 - 📚 Currently learning **Vue.js, Angular**
