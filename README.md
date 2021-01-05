@@ -12,7 +12,7 @@
 
 ### Tree of projects:
   - HTML , CSS, JavaScript
-      - [elements](https://github.com/artyom-n/frontend)
+      - [frontend](https://github.com/artyom-n/frontend)
       - [landing-page](https://github.com/artyom-n/landing-page)
       
   - React.js + TypeScript
