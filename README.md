@@ -1,5 +1,7 @@
-<h1 align="center">Artyom GitHub Profile</h1>
+<h1 align="center">Artyom</h1>
 <h3 align="center">Front-End Developer</h3>
+<h4 align="center">Interested in software development. Web frontend or full-stack development, app development </h4>
+<br />
 
 - 📚 Currently learning **Vue.js, Angular**
 
