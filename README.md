@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer</h3>
 <h4 align="center">Interested in software development. Web frontend or full-stack development, app development </h4>
 <p align="center">
-<span align="center">Connect with me in LinkedIn:<a href="https://linkedin.com/in/https://www.linkedin.com/in/artyom-nagornyih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/artyom-nagornyih/" height="30" width="40" /></a>
+<span align="center">Connect with me in LinkedIn:<a href="https://www.linkedin.com/in/artyom-nagornyih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/artyom-nagornyih/" height="30" width="40" /></a>
 </span>
 </p>
 
