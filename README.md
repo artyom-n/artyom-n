@@ -1,8 +1,7 @@
 <h1 align="center">Artyom</h1>
 <h3 align="center">Front-End Developer</h3>
-<h4 align="center">Interested in software development<br>
-Web frontend or full-stack development<br>
-App development</h4>
+<h4 align="center">Interested in front-end or full-stack development,<br>
+as well as mobile or game applications development</h4>
 <p align="center">
 <span align="center">Connect with me in LinkedIn:<a href="https://www.linkedin.com/in/artyom-nagornyih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/artyom-nagornyih/" height="20" width="30" /></a>
 </span>
