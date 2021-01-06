@@ -1,7 +1,7 @@
 <h1 align="center">Artyom</h1>
 <h3 align="center">Front-End Developer</h3>
 <h4 align="center">Interested in front-end, full-stack <br>
-and mobile applications development
+or mobile applications development
 
 </h4>
 <p align="center">
