@@ -9,7 +9,7 @@ or mobile applications development
 </span>
 </p>
 
-- 📚 Now learning **Vue.js, Angular**
+- 📚 Currently learning **Vue.js, Angular**
 
 - 👨‍💻 All projects are available [here](https://github.com/artyom-n)
 
@@ -35,7 +35,7 @@ or mobile applications development
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and tools:</h3>
 <p
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
