@@ -1,4 +1,4 @@
-<h1 align="center">Artyom</h1>
+<h2 align="center">Artyom</h2>
 <h3 align="center">Front-End Developer</h3>
 <h4 align="center">Interested in front-end, full-stack <br>
 or mobile applications development
@@ -11,7 +11,7 @@ or mobile applications development
 
 - 📚 Currently learning **Vue.js, Angular**
 
-- 👨‍💻 All projects are available at [https://github.com/artyom-n](https://github.com/artyom-n)
+- 👨‍💻 All projects are available [here](https://github.com/artyom-n)
 
 ### Tree of projects:
   - HTML , CSS, JavaScript
