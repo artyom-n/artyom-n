@@ -1,5 +1,5 @@
 <h2 align="center">Artyom</h2>
-<!--<h3 align="center">Front-End Developer</h3>-->
+<h3 align="center">Software Developer</h3>
 <h4 align="center">Interested in front-end, full-stack <br>
 or mobile applications development
 
