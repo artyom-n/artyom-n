@@ -14,26 +14,28 @@ or mobile applications development
 - 👨‍💻 All projects are available [here](https://github.com/artyom-n)
 
 ### Tree of projects:
-  - HTML , CSS, JavaScript
-      - [frontend](https://github.com/artyom-n/frontend)
-      - [landing-page](https://github.com/artyom-n/landing-page)
+
+  - Vue.js
+      - [dev-challenges](https://github.com/artyom-n/dev-challenges) 
       
   - React.js + TypeScript
-      - [image-app](https://github.com/artyom-n/image-app)
+      - [rock-paper](https://github.com/artyom-n/rock-paper)      
       - [memory-game](https://github.com/artyom-n/memory-game)
-      - [api-blog](https://github.com/artyom-n/api-blog)
       - [router-blog](https://github.com/artyom-n/router-blog) 
-      - [currency-app](https://github.com/artyom-n/currency-app)
+      - [api-blog](https://github.com/artyom-n/api-blog)      
       - [minesweeper](https://github.com/artyom-n/minesweeper)
+      - [currency-app](https://github.com/artyom-n/currency-app)
+      - [image-app](https://github.com/artyom-n/image-app)
       
   - React.js + Redux
       - [redux-blog](https://github.com/artyom-n/redux-blog) 
       
+  - HTML / CSS / JS
+      - [frontend](https://github.com/artyom-n/frontend)
+      - [landing-page](https://github.com/artyom-n/landing-page) 
+      
   - Java
-      - [java-projects](https://github.com/artyom-n/java-projects)
-
-
-
+      - [java-projects](https://github.com/artyom-n/java-projects)    
 
 <h3 align="left">Languages and tools:</h3>
 <p
