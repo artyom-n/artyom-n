@@ -11,7 +11,7 @@ or mobile applications development
 
 - 📚 Currently learning **Angular**
 
-- 👨‍💻 All projects are available [here](https://github.com/artyom-n)
+- 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)
 
 ### Tree of projects:
 
