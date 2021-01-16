@@ -9,7 +9,7 @@ or mobile applications development
 </span>
 </p>
 
-- 📚 Currently learning **Vue.js, Angular**
+- 📚 Currently learning **Angular**
 
 - 👨‍💻 All projects are available [here](https://github.com/artyom-n)
 
