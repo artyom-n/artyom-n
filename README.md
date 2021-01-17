@@ -28,7 +28,10 @@ or mobile applications development
       - [image-app](https://github.com/artyom-n/image-app)
       
   - React.js + Redux
-      - [redux-blog](https://github.com/artyom-n/redux-blog) 
+      - [redux-blog](https://github.com/artyom-n/redux-blog)
+      
+  - Angular
+      - [joke-app](https://github.com/artyom-n/joke-app)
       
   - HTML / CSS / JS
       - [frontend](https://github.com/artyom-n/frontend)
