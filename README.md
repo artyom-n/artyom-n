@@ -16,7 +16,7 @@ or mobile applications development
 ### Tree of projects:
 
   - Vue.js
-      - [github-jubs](https://github.com/artyom-n/dev-challenges) 
+      - [github-jobs](https://github.com/artyom-n/dev-challenges) 
       
   - React.js + TypeScript
       - [rock-paper](https://github.com/artyom-n/rock-paper)      
@@ -32,11 +32,11 @@ or mobile applications development
       
   - Angular
       - [joke-app](https://github.com/artyom-n/joke-app)
-      - [joke-app](https://github.com/artyom-n/joke-app)
+      - [ricky-morty](https://github.com/artyom-n/ricky-morty) 
       
   - HTML / CSS / JS
       - [frontend](https://github.com/artyom-n/frontend)
-      - [ricky-morty](https://github.com/artyom-n/ricky-morty) 
+      - [landing-page](https://github.com/artyom-n/landing-page) 
       
   - Java
       - [java-projects](https://github.com/artyom-n/java-projects)    
