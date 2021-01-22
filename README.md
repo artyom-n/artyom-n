@@ -9,14 +9,14 @@ or mobile applications development
 </span>
 </p>
 
-- 📚 Currently learning **Angular**
+- 📚 Currently learning **Node.js**
 
 - 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)
 
 ### Tree of projects:
 
   - Vue.js
-      - [dev-challenges](https://github.com/artyom-n/dev-challenges) 
+      - [github-jubs](https://github.com/artyom-n/dev-challenges) 
       
   - React.js + TypeScript
       - [rock-paper](https://github.com/artyom-n/rock-paper)      
@@ -32,10 +32,11 @@ or mobile applications development
       
   - Angular
       - [joke-app](https://github.com/artyom-n/joke-app)
+      - [joke-app](https://github.com/artyom-n/joke-app)
       
   - HTML / CSS / JS
       - [frontend](https://github.com/artyom-n/frontend)
-      - [landing-page](https://github.com/artyom-n/landing-page) 
+      - [ricky-morty](https://github.com/artyom-n/ricky-morty) 
       
   - Java
       - [java-projects](https://github.com/artyom-n/java-projects)    
