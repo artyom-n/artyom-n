@@ -39,7 +39,8 @@ or mobile applications development
       - [landing-page](https://github.com/artyom-n/landing-page) 
       
   - Java
-      - [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)    
+      - [java-json-sort](https://github.com/artyom-n/java-json-sort)
+      - [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)      
 
 <h3 align="left">Languages and tools:</h3>
 <p
