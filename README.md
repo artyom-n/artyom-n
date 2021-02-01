@@ -11,30 +11,24 @@ or mobile applications development
 <!-- - 📚 Currently learning **Node.js**-->
 <!-- - 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)-->
 
-### Tree of projects:
-
-  - Vue.js
-      - [github-jobs](https://github.com/artyom-n/dev-challenges) 
+### Tree of projects:   
       
-  - React.js + TypeScript
-      - [rock-paper](https://github.com/artyom-n/rock-paper)      
-      - [memory-game](https://github.com/artyom-n/memory-game)
-      - [router-blog](https://github.com/artyom-n/router-blog) 
-      - [api-blog](https://github.com/artyom-n/api-blog)      
-      - [minesweeper](https://github.com/artyom-n/minesweeper)
-      - [currency-app](https://github.com/artyom-n/currency-app)
+  - React.js
+      - [rock-paper](https://github.com/artyom-n/rock-paper)
+      - [api-blog](https://github.com/artyom-n/api-blog)
+      - [router-blog](https://github.com/artyom-n/router-blog)
+      - [redux-blog](https://github.com/artyom-n/redux-blog)      
       - [image-app](https://github.com/artyom-n/image-app)
+      - [memory-game](https://github.com/artyom-n/memory-game)
+      - [currency-app](https://github.com/artyom-n/currency-app)    
+      - [minesweeper](https://github.com/artyom-n/minesweeper)
       
-  - React.js + Redux
-      - [redux-blog](https://github.com/artyom-n/redux-blog)
-      
+  - Vue.js
+      - [github-jobs](https://github.com/artyom-n/dev-challenges)       
+
   - Angular
       - [joke-app](https://github.com/artyom-n/joke-app)
-      - [ricky-morty](https://github.com/artyom-n/ricky-morty) 
-      
-  - HTML / CSS / JS
-      - [frontend](https://github.com/artyom-n/frontend)
-      - [landing-page](https://github.com/artyom-n/landing-page) 
+      - [ricky-morty](https://github.com/artyom-n/ricky-morty)
       
   - Java
       - [java-json-sort](https://github.com/artyom-n/java-json-sort)
