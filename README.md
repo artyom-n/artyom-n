@@ -8,11 +8,8 @@ or mobile applications development
 <span align="center">Connect with me in <a href="https://www.linkedin.com/in/artyom-nagornyih/" target="blank">LinkedIn</a>
 </span>
 </p>
-
-- 📚 Currently learning **Node.js**
-
-- 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)
-
+<!-- - 📚 Currently learning **Node.js**-->
+<!-- - 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)-->
 ### Tree of projects:
 
   - Vue.js
