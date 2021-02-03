@@ -31,6 +31,7 @@ or mobile applications development
       - [ricky-morty](https://github.com/artyom-n/ricky-morty)
       
   - Java
+      - [rest-spring-boot](https://github.com/artyom-n/rest-spring-boot)
       - [java-json-sort](https://github.com/artyom-n/java-json-sort)
       - [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)      
 
