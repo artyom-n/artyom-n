@@ -13,11 +13,11 @@ or mobile applications development
 
 ### Tree of projects:   
       
-  - React.js
-      - [rock-paper](https://github.com/artyom-n/rock-paper)
+  - React.js      
       - [api-blog](https://github.com/artyom-n/api-blog)
       - [router-blog](https://github.com/artyom-n/router-blog)
-      - [redux-blog](https://github.com/artyom-n/redux-blog)      
+      - [redux-blog](https://github.com/artyom-n/redux-blog) 
+      - [rock-paper](https://github.com/artyom-n/rock-paper)
       - [image-app](https://github.com/artyom-n/image-app)
       - [memory-game](https://github.com/artyom-n/memory-game)
       - [currency-app](https://github.com/artyom-n/currency-app)
