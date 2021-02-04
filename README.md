@@ -20,8 +20,7 @@ or mobile applications development
       - [redux-blog](https://github.com/artyom-n/redux-blog)      
       - [image-app](https://github.com/artyom-n/image-app)
       - [memory-game](https://github.com/artyom-n/memory-game)
-      - [currency-app](https://github.com/artyom-n/currency-app)    
-      - [minesweeper](https://github.com/artyom-n/minesweeper)
+      - [currency-app](https://github.com/artyom-n/currency-app)
       
   - Vue.js
       - [github-jobs](https://github.com/artyom-n/dev-challenges)       
