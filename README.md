@@ -1,6 +1,6 @@
 <h2 align="center">Artyom</h2>
 <h3 align="center">Frontend developer</h3>
-<h4 align="center">Interested in front-end, full-stack <br>
+<h4 align="center">Interested in front-end, full-stack,<br>
 or mobile applications development
 
 </h4>
