@@ -2,7 +2,7 @@ Hi, there! 👋 <br><br>
 My name is Artyom <br><br>
 Connect with me in [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
 I'm Front-End Developer<br><br>
-My projects are available below:
+My projects are available below ⤵️
       
 ### React
 - [Memory game](https://github.com/artyom-n/memory-game)
