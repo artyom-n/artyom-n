@@ -3,7 +3,7 @@ My name is Artyom <br><br>
 How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
 My projects are available below ⤵️
       
-### React
+### React.js, TypeScript
 - [Memory game](https://github.com/artyom-n/memory-game)
 - [RPSLS game](https://github.com/artyom-n/rock-paper)
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
@@ -12,14 +12,14 @@ My projects are available below ⤵️
 - [Currency app](https://github.com/artyom-n/currency-app)
 - [Image filter app](https://github.com/artyom-n/image-app)    
             
-### Vue
+### Vue.js, TypeScript
 - [GitHub Jobs](https://github.com/artyom-n/dev-challenges)       
 
-### Angular
+### Angular, TypeScript
 - [Joke app](https://github.com/artyom-n/joke-app)
 - [Ricky & Morty API blog](https://github.com/artyom-n/ricky-morty)
       
-### Java
+### Java, Spring
 - [REST spring boot app](https://github.com/artyom-n/rest-spring-boot)
 - [Java json sort app](https://github.com/artyom-n/java-json-sort)
 - [Flashcards game](https://github.com/artyom-n/flashcards-in-java)      
