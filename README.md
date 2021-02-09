@@ -1,7 +1,6 @@
 ## Artyom
 
 Hi, there! 👋 <br><br>
-I'm Front-End Developer
 ✨ How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
 My projects are available below 👇
       
