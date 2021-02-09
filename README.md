@@ -1,7 +1,6 @@
 Hi, there! 👋 <br><br>
 My name is Artyom <br><br>
-Connect with me in [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
-I'm Front-End Developer<br><br>
+How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
 My projects are available below ⤵️
       
 ### React
