@@ -1,16 +1,10 @@
-<h2 align="center">Artyom</h2>
-<h3 align="center">Frontend developer</h3>
-<h4 align="center">Interested in front-end, full-stack,<br>
-or mobile applications development
+Hi, there! 👋 <br><br>
+My name is Artyom <br><br>
+I'm Front-End Developer<br><br>
+Interested in front-end, full-stack, or mobile applications development<br><br>
+Connect with me in [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
 
-</h4>
-<p align="center">
-<span align="center">Connect with me in <a href="https://www.linkedin.com/in/artyom-nagornyih/" target="blank">LinkedIn</a>
-</span>
-</p>
-<!-- - 📚 Currently learning **Node.js**-->
-<!-- - 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)-->
-<!--### Tree of projects:-->   
+My projects here:
       
 ### React
 - [Memory game](https://github.com/artyom-n/memory-game)
@@ -33,7 +27,7 @@ or mobile applications development
 - [Java json sort app](https://github.com/artyom-n/java-json-sort)
 - [Flashcards game](https://github.com/artyom-n/flashcards-in-java)      
 
-### Languages and tools
+<!-- ### Languages and tools
 <p
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
@@ -51,4 +45,4 @@ or mobile applications development
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="30" height="30"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a>
 <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a>
+<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> -->
