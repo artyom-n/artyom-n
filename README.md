@@ -5,8 +5,8 @@ Hi, there! 👋 <br><br>
 My projects are available below 👇
       
 ## React.js | TypeScript
-- [Memory game](https://github.com/artyom-n/memory-game)🎲
-- [RPSLS game](https://github.com/artyom-n/rock-paper)🎲
+- [Memory game](https://github.com/artyom-n/memory-game) 🎲
+- [RPSLS game](https://github.com/artyom-n/rock-paper) 🎲
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
 - [API router blog](https://github.com/artyom-n/api-blog)
 - [Router blog](https://github.com/artyom-n/router-blog)   
@@ -23,7 +23,7 @@ My projects are available below 👇
 ## Java | Spring
 - [REST spring boot app](https://github.com/artyom-n/rest-spring-boot)
 - [Java json sort app](https://github.com/artyom-n/java-json-sort)
-- [Flashcards game](https://github.com/artyom-n/flashcards-in-java)🎲      
+- [Flashcards game](https://github.com/artyom-n/flashcards-in-java) 🎲      
 
 <!-- ### Languages and tools
 <p
