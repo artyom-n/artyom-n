@@ -1,10 +1,9 @@
 Hi, there! 👋 <br><br>
 My name is Artyom <br><br>
-I'm Front-End Developer<br><br>
-Interested in front-end, full-stack, or mobile applications development<br><br>
 Connect with me in [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
+I'm Front-End Developer<br><br>
 
-My projects here:
+My projects are available here:
       
 ### React
 - [Memory game](https://github.com/artyom-n/memory-game)
