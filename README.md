@@ -11,7 +11,7 @@ or mobile applications development
 <!-- - 📚 Currently learning **Node.js**-->
 <!-- - 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)-->
 
-### Tree of projects:   
+<!--### Tree of projects:-->   
       
   - React.js      
       - [api-blog](https://github.com/artyom-n/api-blog)
