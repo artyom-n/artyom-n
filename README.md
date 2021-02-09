@@ -1,8 +1,8 @@
 Hi, there! 👋 <br><br>
 My name is Artyom and I'm aspiring front-end developer <br><br>
-In addition to the front-end, I am also interested in other technologies, such as full-stack or mobile application development and other, always ready to develop and gain new knowledge <br><br>
+In addition to the front-end, I am also interested in other technologies such as full-stack or mobile application development, etc., always ready to develop and gain new knowledge <br><br>
 ✨ How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
-My projects are available below 👇
+My projects are available below ⤵️
       
 ## React.js | TypeScript
 - [Memory game](https://github.com/artyom-n/memory-game) 🎲
