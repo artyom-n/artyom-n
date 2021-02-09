@@ -1,4 +1,4 @@
-## Artyom | Front-End Developer
+## Artyom
 
 Hi, there! 👋 <br><br>
 How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
