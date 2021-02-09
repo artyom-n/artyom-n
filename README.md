@@ -1,7 +1,6 @@
-## Front-End Developer
+## Artyom | Front-End Developer
 
 Hi, there! 👋 <br><br>
-My name is Artyom <br><br>
 How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
 My projects are available below ⤵️
       
