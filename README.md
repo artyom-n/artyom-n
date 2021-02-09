@@ -13,25 +13,25 @@ or mobile applications development
 <!--### Tree of projects:-->   
       
 ### React
-- [memory-game](https://github.com/artyom-n/memory-game)
-- [rock-paper](https://github.com/artyom-n/rock-paper)
-- [redux-router-blog](https://github.com/artyom-n/redux-blog)
-- [api-router-blog](https://github.com/artyom-n/api-blog)
-- [router-blog](https://github.com/artyom-n/router-blog)   
-- [currency-app](https://github.com/artyom-n/currency-app)
-- [image-app](https://github.com/artyom-n/image-app)    
+- [Memory game](https://github.com/artyom-n/memory-game)
+- [RPSLS game](https://github.com/artyom-n/rock-paper)
+- [Redux router blog](https://github.com/artyom-n/redux-blog)
+- [API router blog](https://github.com/artyom-n/api-blog)
+- [Router blog](https://github.com/artyom-n/router-blog)   
+- [Currency app](https://github.com/artyom-n/currency-app)
+- [Image filter app](https://github.com/artyom-n/image-app)    
             
 ### Vue
-- [github-jobs](https://github.com/artyom-n/dev-challenges)       
+- [GitHub Jobs](https://github.com/artyom-n/dev-challenges)       
 
 ### Angular
-- [joke-app](https://github.com/artyom-n/joke-app)
-- [ricky-morty](https://github.com/artyom-n/ricky-morty)
+- [Joke App](https://github.com/artyom-n/joke-app)
+- [Ricky & Morty API blog](https://github.com/artyom-n/ricky-morty)
       
 ### Java
-- [rest-spring-boot](https://github.com/artyom-n/rest-spring-boot)
-- [java-json-sort](https://github.com/artyom-n/java-json-sort)
-- [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)      
+- [REST spring boot app](https://github.com/artyom-n/rest-spring-boot)
+- [Java json sort app](https://github.com/artyom-n/java-json-sort)
+- [Flashcards game](https://github.com/artyom-n/flashcards-in-java)      
 
 ### Languages and tools
 <p
