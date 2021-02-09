@@ -12,28 +12,28 @@ or mobile applications development
 <!-- - 👨‍💻 All projects are available [here](https://github.com/artyom-n?tab=repositories)-->
 <!--### Tree of projects:-->   
       
-  React
-  - [memory-game](https://github.com/artyom-n/memory-game)
-  - [rock-paper](https://github.com/artyom-n/rock-paper)
-  - [redux-router-blog](https://github.com/artyom-n/redux-blog)
-  - [api-router-blog](https://github.com/artyom-n/api-blog)
-  - [router-blog](https://github.com/artyom-n/router-blog)   
-  - [currency-app](https://github.com/artyom-n/currency-app)
-  - [image-app](https://github.com/artyom-n/image-app)    
+### React
+- [memory-game](https://github.com/artyom-n/memory-game)
+- [rock-paper](https://github.com/artyom-n/rock-paper)
+- [redux-router-blog](https://github.com/artyom-n/redux-blog)
+- [api-router-blog](https://github.com/artyom-n/api-blog)
+- [router-blog](https://github.com/artyom-n/router-blog)   
+- [currency-app](https://github.com/artyom-n/currency-app)
+- [image-app](https://github.com/artyom-n/image-app)    
             
-  Vue
-  - [github-jobs](https://github.com/artyom-n/dev-challenges)       
+### Vue
+- [github-jobs](https://github.com/artyom-n/dev-challenges)       
 
-  Angular
-  - [joke-app](https://github.com/artyom-n/joke-app)
-  - [ricky-morty](https://github.com/artyom-n/ricky-morty)
+### Angular
+- [joke-app](https://github.com/artyom-n/joke-app)
+- [ricky-morty](https://github.com/artyom-n/ricky-morty)
       
-  Java
-  - [rest-spring-boot](https://github.com/artyom-n/rest-spring-boot)
-  - [java-json-sort](https://github.com/artyom-n/java-json-sort)
-  - [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)      
+### Java
+- [rest-spring-boot](https://github.com/artyom-n/rest-spring-boot)
+- [java-json-sort](https://github.com/artyom-n/java-json-sort)
+- [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)      
 
-Languages and tools
+### Languages and tools
 <p
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
