@@ -33,7 +33,7 @@ or mobile applications development
   - [java-json-sort](https://github.com/artyom-n/java-json-sort)
   - [flashcards-in-java](https://github.com/artyom-n/flashcards-in-java)      
 
-<h3 align="left">Languages and tools:</h3>
+Languages and tools
 <p
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
