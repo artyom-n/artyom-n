@@ -13,16 +13,16 @@ or mobile applications development
 
 <!--### Tree of projects:-->   
       
-  - React.js      
-      - [api-blog](https://github.com/artyom-n/api-blog)
-      - [router-blog](https://github.com/artyom-n/router-blog)
-      - [redux-blog](https://github.com/artyom-n/redux-blog) 
-      - [rock-paper](https://github.com/artyom-n/rock-paper)
-      - [image-app](https://github.com/artyom-n/image-app)
+  - React
       - [memory-game](https://github.com/artyom-n/memory-game)
+      - [rock-paper](https://github.com/artyom-n/rock-paper)
+      - [redux-router-blog](https://github.com/artyom-n/redux-blog)
+      - [api-router-blog](https://github.com/artyom-n/api-blog)
+      - [router-blog](https://github.com/artyom-n/router-blog)   
       - [currency-app](https://github.com/artyom-n/currency-app)
-      
-  - Vue.js
+      - [image-app](https://github.com/artyom-n/image-app)    
+            
+  - Vue
       - [github-jobs](https://github.com/artyom-n/dev-challenges)       
 
   - Angular
