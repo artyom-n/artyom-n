@@ -1,8 +1,8 @@
 ## Artyom
 
 Hi, there! 👋 <br><br>
-How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
-My projects are available below ⤵️
+✨ How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
+My projects are available below 👇
       
 ## React.js | TypeScript
 - [Memory game](https://github.com/artyom-n/memory-game)
