@@ -25,7 +25,7 @@ or mobile applications development
 - [GitHub Jobs](https://github.com/artyom-n/dev-challenges)       
 
 ### Angular
-- [Joke App](https://github.com/artyom-n/joke-app)
+- [Joke app](https://github.com/artyom-n/joke-app)
 - [Ricky & Morty API blog](https://github.com/artyom-n/ricky-morty)
       
 ### Java
