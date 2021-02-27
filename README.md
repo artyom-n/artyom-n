@@ -13,7 +13,10 @@ My projects are available below ⤵️
 - [API router blog](https://github.com/artyom-n/api-blog)
 - [Router blog](https://github.com/artyom-n/router-blog)   
 - [Currency app](https://github.com/artyom-n/currency-app)
-- [Image filter app](https://github.com/artyom-n/image-app)    
+- [Image filter app](https://github.com/artyom-n/image-app)  
+
+## Node.js | JavaScript
+- [Bitcoin](https://github.com/artyom-n/coindesk)
             
 ## Vue.js | TypeScript
 - [GitHub Jobs](https://github.com/artyom-n/dev-challenges)       
