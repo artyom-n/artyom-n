@@ -5,7 +5,7 @@ My name is Artyom and I'm an innovative front-end developer.<br><br>
 In addition to the front-end, I am also interested in other technologies such as full-stack, mobile application development, etc.<br><br> 
 Always ready to develop and gain new knowledge.<br><br>
 ✨ How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
-Projects are available below ⤵️
+My projects are available below ⤵️
       
 ## React.js | TypeScript
 - [Memory game](https://github.com/artyom-n/memory-game) 🎲
