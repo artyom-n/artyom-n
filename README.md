@@ -3,7 +3,7 @@ console.log("Welcome!"👋)
 ```
 In addition to the front-end, I am also interested in other technologies such as full-stack, mobile application development, etc. Always ready to develop and gain new knowledge <br><br>
 ✨ How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
-My projects are available below ⤵️
+Projects are available below ⤵️
       
 ## React.js | TypeScript
 - [Memory game](https://github.com/artyom-n/memory-game) 🎲
