@@ -17,7 +17,7 @@ My projects are available below ⤵️
 - [Image filter app](https://github.com/artyom-n/image-app)  
 
 ## Node.js | JavaScript
-- [Bitcoin](https://github.com/artyom-n/coindesk) ₿
+- [₿itcoin](https://github.com/artyom-n/coindesk)💰
             
 ## Vue.js | TypeScript
 - [GitHub Jobs](https://github.com/artyom-n/dev-challenges)       
