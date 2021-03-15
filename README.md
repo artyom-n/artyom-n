@@ -16,11 +16,11 @@ My projects are available below ⤵️
 - [Price history api](https://github.com/artyom-n/coindesk)
             
 ### Vue.js | TypeScript
-- [GitHub Jobs](https://github.com/artyom-n/dev-challenges)       
+- [Github jobs app](https://github.com/artyom-n/dev-challenges)       
 
 ### Angular | TypeScript
 - [Joke app](https://github.com/artyom-n/joke-app)
-- [Ricky & Morty api blog](https://github.com/artyom-n/ricky-morty)
+- [Api blog](https://github.com/artyom-n/ricky-morty)
       
 ### Java | Spring
 - [Rest api spring boot app](https://github.com/artyom-n/rest-spring-boot)
