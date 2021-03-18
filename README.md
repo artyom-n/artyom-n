@@ -10,7 +10,7 @@ My projects are available below ⤵️
 - [API router blog](https://github.com/artyom-n/api-blog)
 - [Image filter app](https://github.com/artyom-n/image-app) 
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
-- [Router blog](https://github.com/artyom-n/router-blog)
+- [Router array blog](https://github.com/artyom-n/router-blog)
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
  
 ### Node.js | JavaScript
