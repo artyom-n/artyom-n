@@ -11,6 +11,7 @@ My projects are available below ⤵️
 - [Image filter app](https://github.com/artyom-n/image-app)
 - [Router array blog](https://github.com/artyom-n/router-blog)
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
+- [Shopping carts app](https://github.com/artyom-n/shop-carts)
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
  
 ### Node.js | JavaScript
