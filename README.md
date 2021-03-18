@@ -20,8 +20,8 @@ My projects are available below ⤵️
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)       
 
 ### Angular | TypeScript
-- [Joke app](https://github.com/artyom-n/joke-app)
 - [API blog](https://github.com/artyom-n/ricky-morty)
+- [Joke app](https://github.com/artyom-n/joke-app)
       
 ### Java | Spring
 - [Rest API spring boot app](https://github.com/artyom-n/rest-spring-boot)
