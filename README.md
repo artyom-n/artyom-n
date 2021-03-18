@@ -4,8 +4,8 @@
 My projects are available below ⤵️
       
 ### React.js | TypeScript
-- [Memory game](https://github.com/artyom-n/memory-game)
-- [RPSLS game](https://github.com/artyom-n/rock-paper)
+- [Memory app](https://github.com/artyom-n/memory-game)
+- [RPSLS app](https://github.com/artyom-n/rock-paper)
 - [Currency app](https://github.com/artyom-n/currency-app)
 - [Api router blog](https://github.com/artyom-n/api-blog)
 - [Image filter app](https://github.com/artyom-n/image-app) 
@@ -25,4 +25,4 @@ My projects are available below ⤵️
 ### Java | Spring
 - [Rest api spring boot app](https://github.com/artyom-n/rest-spring-boot)
 - [Java json sort app](https://github.com/artyom-n/java-json-sort)
-- [Flashcards game](https://github.com/artyom-n/flashcards-in-java)
+- [Flashcards app](https://github.com/artyom-n/flashcards-in-java)
