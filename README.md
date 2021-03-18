@@ -6,12 +6,12 @@ My projects are available below ⤵️
 ### React.js | TypeScript
 - [Memory game](https://github.com/artyom-n/memory-game)
 - [RPSLS game](https://github.com/artyom-n/rock-paper)
+- [Currency app](https://github.com/artyom-n/currency-app)
+- [Image filter app](https://github.com/artyom-n/image-app) 
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
 - [Api router blog](https://github.com/artyom-n/api-blog)
-- [Router blog](https://github.com/artyom-n/router-blog)   
-- [Currency app](https://github.com/artyom-n/currency-app)
-- [Image filter app](https://github.com/artyom-n/image-app)  
-
+- [Router blog](https://github.com/artyom-n/router-blog) 
+ 
 ### Node.js | JavaScript
 - [Price history api](https://github.com/artyom-n/coindesk)
             
