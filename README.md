@@ -14,7 +14,7 @@ My projects are available below ⤵️
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
  
 ### Node.js | JavaScript
-- [Price history API](https://github.com/artyom-n/coindesk)
+- [Price history API app](https://github.com/artyom-n/coindesk)
             
 ### Vue.js | TypeScript
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)       
