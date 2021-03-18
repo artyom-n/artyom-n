@@ -5,7 +5,7 @@ My projects are available below ⤵️
       
 ### React.js | TypeScript
 - [Memory app](https://github.com/artyom-n/memory-game)
-- [RPSLS app](https://github.com/artyom-n/rock-paper)
+- [R P S L S app](https://github.com/artyom-n/rock-paper)
 - [Currency app](https://github.com/artyom-n/currency-app)
 - [API router blog](https://github.com/artyom-n/api-blog)
 - [Image filter app](https://github.com/artyom-n/image-app) 
