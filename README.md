@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ How to reach me: [LinkedIn](https://www.linkedin.com/in/artyom-nagornyih/)<br><br>
+<!--✨ How to reach me: [LinkedIn](https://www.linkedin.com/in//)<br><br>-->
 My projects are available below ⤵️
       
 ### React.js | TypeScript
