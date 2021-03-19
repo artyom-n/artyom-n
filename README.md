@@ -27,8 +27,8 @@ My projects are available below ⤵️
 - [API blog](https://github.com/artyom-n/ricky-morty)
 - [Joke app](https://github.com/artyom-n/joke-app)
 
-### HTML | CSS | JS
-- [Dark landing page](https://github.com/artyom-n/landing-page)
+<!--### HTML | CSS | JS
+- [Dark landing page](https://github.com/artyom-n/landing-page)-->
       
 ### Java | Spring
 - [Rest API spring boot app](https://github.com/artyom-n/rest-spring-boot)
