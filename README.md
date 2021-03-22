@@ -12,7 +12,7 @@ My projects are available below ⤵️
 - [Router array blog](https://github.com/artyom-n/router-blog)
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
-<!--- [Responsive API app](https://github.com/artyom-n/sonarworks)-->
+- [Responsive API app](https://github.com/artyom-n/sonarworks)
 
 ### React.js | Node.js | MySQL
 - [Client server app](https://github.com/artyom-n/client-server-app)
