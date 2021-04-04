@@ -19,14 +19,14 @@ My projects are available below ⤵️
 ### Vue.js | TypeScript
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)
  
-### Node.js | JavaScript
+### Node.js | Express.js
 - [Price history API app](https://github.com/artyom-n/coindesk)          
        
-### Angular | TypeScript
+### Angular
 - [API blog](https://github.com/artyom-n/ricky-morty)
 - [Joke app](https://github.com/artyom-n/joke-app)
       
-### Java | Spring
+### Java
 - [Rest API spring boot app](https://github.com/artyom-n/rest-spring-boot)
 - [Java JSON sort app](https://github.com/artyom-n/java-json-sort)
 - [Flashcards app](https://github.com/artyom-n/flashcards-in-java)
