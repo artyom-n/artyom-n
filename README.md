@@ -7,7 +7,7 @@ My name is Artyom, I'm Front-end Developer
 My projects are available below ⤵️
       
 ### React.js / TypeScript
-- [Search API](https://github.com/artyom-n/search-api)
+- [Searching from API](https://github.com/artyom-n/search-api)
 - [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js / Node.js / MySQL)</b>
 - [Getting data from API / Routing / Responsive design](https://github.com/artyom-n/sonarworks)
 - [Currency app](https://github.com/artyom-n/currency-app)
