@@ -8,6 +8,8 @@ My projects are available below ⤵️
       
 ### React.js / TypeScript
 - [Search API](https://github.com/artyom-n/search-api)
+- [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js / Node.js / MySQL)</b>
+- [Responsive API app](https://github.com/artyom-n/sonarworks)
 - [Memory app](https://github.com/artyom-n/memory-game)
 - [R P S L S app](https://github.com/artyom-n/rock-paper)
 - [Currency app](https://github.com/artyom-n/currency-app)
@@ -16,8 +18,6 @@ My projects are available below ⤵️
 - [Router array blog](https://github.com/artyom-n/router-blog)
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
-- [Responsive API app](https://github.com/artyom-n/sonarworks)
-- [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js / Node.js / MySQL)</b>
 
 ### Vue.js / TypeScript
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)
