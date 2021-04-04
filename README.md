@@ -4,6 +4,7 @@
 My projects are available below ⤵️
       
 ### React.js | TypeScript
+- [Search API](https://github.com/artyom-n/search-api)
 - [Memory app](https://github.com/artyom-n/memory-game)
 - [R P S L S app](https://github.com/artyom-n/rock-paper)
 - [Currency app](https://github.com/artyom-n/currency-app)
