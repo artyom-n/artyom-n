@@ -15,19 +15,16 @@ My projects are available below ⤵️
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
 - [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js | Node.js | MySQL)</b>
+
+### Vue.js | TypeScript
+- [Github jobs app](https://github.com/artyom-n/dev-challenges)
  
 ### Node.js | JavaScript
-- [Price history API app](https://github.com/artyom-n/coindesk)
-            
-### Vue.js | TypeScript
-- [Github jobs app](https://github.com/artyom-n/dev-challenges)       
-
+- [Price history API app](https://github.com/artyom-n/coindesk)          
+       
 ### Angular | TypeScript
 - [API blog](https://github.com/artyom-n/ricky-morty)
 - [Joke app](https://github.com/artyom-n/joke-app)
-
-<!--### HTML | CSS | JS
-- [Dark landing page](https://github.com/artyom-n/landing-page)-->
       
 ### Java | Spring
 - [Rest API spring boot app](https://github.com/artyom-n/rest-spring-boot)
