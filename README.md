@@ -10,9 +10,9 @@ My projects are available below ⤵️
 - [Search API](https://github.com/artyom-n/search-api)
 - [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js / Node.js / MySQL)</b>
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
+- [Currency app](https://github.com/artyom-n/currency-app)
 - [Memory app](https://github.com/artyom-n/memory-game)
 - [R P S L S app](https://github.com/artyom-n/rock-paper)
-- [Currency app](https://github.com/artyom-n/currency-app)
 - [API router blog](https://github.com/artyom-n/api-blog)
 - [Image filter app](https://github.com/artyom-n/image-app)
 - [Router array blog](https://github.com/artyom-n/router-blog)
