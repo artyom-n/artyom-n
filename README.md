@@ -14,9 +14,7 @@ My projects are available below ⤵️
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
-
-### React.js | Node.js | MySQL
-- [Responsive full-stack app](https://github.com/artyom-n/client-server-app)
+- [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js | Node.js | MySQL)</b>
  
 ### Node.js | JavaScript
 - [Price history API app](https://github.com/artyom-n/coindesk)
