@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+My name is Artyom, I'm Front-end Developer
+
 <!--✨ How to reach me: [LinkedIn](https://www.linkedin.com/in//)<br><br>-->
+
 My projects are available below ⤵️
       
-### React.js | TypeScript
+### React.js / TypeScript
 - [Search API](https://github.com/artyom-n/search-api)
 - [Memory app](https://github.com/artyom-n/memory-game)
 - [R P S L S app](https://github.com/artyom-n/rock-paper)
@@ -14,12 +17,12 @@ My projects are available below ⤵️
 - [Redux router blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
 - [Responsive API app](https://github.com/artyom-n/sonarworks)
-- [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js | Node.js | MySQL)</b>
+- [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>(React.js / Node.js / MySQL)</b>
 
-### Vue.js | TypeScript
+### Vue.js / TypeScript
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)
  
-### Node.js | Express.js
+### Node.js / Express.js
 - [Price history API app](https://github.com/artyom-n/coindesk)          
        
 ### Angular
