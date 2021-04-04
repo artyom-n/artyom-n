@@ -12,11 +12,10 @@ My projects are available below ⤵️
 - [Getting data from API / Routing / Responsive design](https://github.com/artyom-n/sonarworks)
 - [Currency app](https://github.com/artyom-n/currency-app)
 - [Memory app](https://github.com/artyom-n/memory-game)
-- [R P S L S app](https://github.com/artyom-n/rock-paper)
-- [API router blog](https://github.com/artyom-n/api-blog)
+- [R-P-S-L-S app](https://github.com/artyom-n/rock-paper)
+- [API routing blog](https://github.com/artyom-n/api-blog)
 - [Image filter app](https://github.com/artyom-n/image-app)
-- [Router array blog](https://github.com/artyom-n/router-blog)
-- [Redux router blog](https://github.com/artyom-n/redux-blog)
+- [Redux routing blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
 
 ### Vue.js / TypeScript
