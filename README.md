@@ -11,8 +11,8 @@ My projects are available below ⤵️
 - [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>( React.js / Node.js / MySQL )</b>
 - [Getting data from API / Routing / Responsive design](https://github.com/artyom-n/sonarworks)
 - [Currency app](https://github.com/artyom-n/currency-app)
-- [Memory app](https://github.com/artyom-n/memory-game)
-- [R-P-S-L-S app](https://github.com/artyom-n/rock-paper)
+- [Memory game](https://github.com/artyom-n/memory-game)
+- [R-P-S-L-S game](https://github.com/artyom-n/rock-paper)
 - [API routing blog](https://github.com/artyom-n/api-blog)
 - [Image filter app](https://github.com/artyom-n/image-app)
 - [Redux routing blog](https://github.com/artyom-n/redux-blog)
@@ -29,6 +29,6 @@ My projects are available below ⤵️
 - [Joke cards](https://github.com/artyom-n/joke-app)
       
 ### Java
-- [Rest API spring boot app](https://github.com/artyom-n/rest-spring-boot)
-- [Java JSON sort app](https://github.com/artyom-n/java-json-sort)
-- [Flashcards app](https://github.com/artyom-n/flashcards-in-java)
+- [Java Spring Boot REST API app](https://github.com/artyom-n/rest-spring-boot)
+- [Java JSON sorting app](https://github.com/artyom-n/java-json-sort)
+- [Flashcards game](https://github.com/artyom-n/flashcards-in-java)
