@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Artyom, I'm Front-end Developer
+I'm Artyom
 
 <!--✨ How to reach me: [LinkedIn](https://www.linkedin.com/in//)<br><br>-->
 
