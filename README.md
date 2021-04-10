@@ -1,10 +1,8 @@
-### Welcome 👋
+<!--### Welcome 👋
 
-I'm Artyom
+✨ How to reach me: [LinkedIn](https://www.linkedin.com/in//)<br><br>
 
-<!--✨ How to reach me: [LinkedIn](https://www.linkedin.com/in//)<br><br>-->
-
-My projects are available below ⤵️
+My projects are available below ⤵️-->
       
 ### React.js / TypeScript
 - [Searching from API](https://github.com/artyom-n/search-api)
