@@ -12,9 +12,9 @@ My projects are available below ⤵️-->
 - [Memory game](https://github.com/artyom-n/memory-game)
 - [R-P-S-L-S game](https://github.com/artyom-n/rock-paper)
 - [API routing blog](https://github.com/artyom-n/api-blog)
-<!-- - [Image filter app](https://github.com/artyom-n/image-app) -->
 - [Redux routing blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
+<!-- - [Image filter app](https://github.com/artyom-n/image-app) -->
 
 ### Vue.js / TypeScript
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)
