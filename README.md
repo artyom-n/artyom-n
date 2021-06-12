@@ -7,7 +7,7 @@ My projects are available below ⤵️-->
 ### React.js / TypeScript
 - [Searching from API](https://github.com/artyom-n/search-api)
 - [Responsive full-stack app](https://github.com/artyom-n/client-server-app) <b>( React.js / Node.js / MySQL )</b>
-- [Getting data from API / Routing / Responsive design](https://github.com/artyom-n/sonarworks)
+- [Getting data from API / Routing / Responsive design](https://github.com/artyom-n/get-data-from-api)
 - [Currency app](https://github.com/artyom-n/currency-app)
 - [Memory game](https://github.com/artyom-n/memory-game)
 - [R-P-S-L-S game](https://github.com/artyom-n/rock-paper)
