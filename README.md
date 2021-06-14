@@ -16,7 +16,7 @@ My projects are available below ⤵️-->
 ### React with Redux
 - [Redux routing blog](https://github.com/artyom-n/redux-blog)
 - [Shopping carts app](https://github.com/artyom-n/shop-carts)
-- [Simple react redux using example](https://github.com/artyom-n/react-redux-ts)
+- [Simple redux example](https://github.com/artyom-n/react-redux-ts)
 
 ### Vue.js / TypeScript
 - [Github jobs app](https://github.com/artyom-n/dev-challenges)
