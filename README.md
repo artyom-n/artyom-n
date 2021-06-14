@@ -34,6 +34,16 @@ My projects are available below ⤵️-->
 - [Flashcards game](https://github.com/artyom-n/flashcards-in-java)
 
 <!--
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+-->
+
+<!--
 ### Hi there 👋
 
 **artyom-n/artyom-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
