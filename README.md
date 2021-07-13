@@ -12,7 +12,7 @@ My projects are available below ⤵️-->
 - [Work with props](https://github.com/artyom-n/react-ts-work-with-props)
 - [Currency app](https://github.com/artyom-n/currency-app)
 - [Memory game](https://github.com/artyom-n/memory-game)
-- [R-P-S-L-S game](https://github.com/artyom-n/rock-paper)
+- [Rpsls game](https://github.com/artyom-n/rpsls-game)
 - [API routing blog](https://github.com/artyom-n/api-blog)
 
 ### React with Redux
