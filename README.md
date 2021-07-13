@@ -7,7 +7,7 @@ My projects are available below ⤵️-->
 ### React.js / TypeScript
 - [React CRUD App](https://github.com/artyom-n/crud-app)
 - [Searching from API](https://github.com/artyom-n/search-api)
-- [Responsive full-stack app](https://github.com/artyom-n/client-server-app)<b> ( React.js / Node.js / MySQL )</b>
+- [Responsive full-stack app](https://github.com/artyom-n/client-server-app)<b>React.js Node.js MySQL</b>
 - [Getting data from API / Routing / Responsive design](https://github.com/artyom-n/get-data-from-api)
 - [Work with props](https://github.com/artyom-n/react-ts-work-with-props)
 - [Currency app](https://github.com/artyom-n/currency-app)
