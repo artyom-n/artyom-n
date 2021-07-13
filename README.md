@@ -27,8 +27,8 @@ My projects are available below ⤵️-->
 - [Price history API app](https://github.com/artyom-n/coindesk)          
        
 ### Angular
-- [API routing blog](https://github.com/artyom-n/ricky-morty)
-- [Joke cards](https://github.com/artyom-n/joke-app)
+- [API routing blog](https://github.com/artyom-n/angular-api-blog)
+- [Cards app](https://github.com/artyom-n/angular-cards-app)
       
 ### Java
 - [Java Spring Boot REST API app](https://github.com/artyom-n/rest-spring-boot)
